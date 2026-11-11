@@ -1,0 +1,6 @@
+report.yao-yang.cn {
+    tls 378031327@qq.com
+    root * /var/www/report/site
+    file_server
+    encode gzip
+}
